@@ -1,1 +1,5 @@
 # parseMethods
+
+## parseInt()
+
+## parseFloat()
